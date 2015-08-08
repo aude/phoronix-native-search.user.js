@@ -1,27 +1,27 @@
 // ==UserScript==
-// @name        Phoronix: native search
-// @namespace   https://github.com/aude
-// @author      aude
+// @name	Phoronix: native search
+// @namespace	https://github.com/aude
+// @author	aude
 // @description Replace Phoronix' use of Google with it's own native search.
-// @include     /^https?://(www\.)phoronix\.com(/.*)?$/
-// @domain      phoronix.com
-// @match       http://www.phoronix.com/*
-// @match       https://www.phoronix.com/*
-// @updateURL   https://github.com/aude/phoronix-native-search.user.js/raw/master/dist/phoronix-native-search.meta.js
+// @include	/^https?://(www\.)phoronix\.com(/.*)?$/
+// @domain	phoronix.com
+// @match	http://www.phoronix.com/*
+// @match	https://www.phoronix.com/*
+// @updateURL	https://github.com/aude/phoronix-native-search.user.js/raw/master/dist/phoronix-native-search.meta.js
 // @downloadURL https://github.com/aude/phoronix-native-search.user.js/raw/master/dist/phoronix-native-search.user.js
-// @grant       none
-// @version     20150808
+// @grant	none
+// @version	20150808
 // ==/UserScript==
 
 // ==ChangeLog==
-// @history     20150808 GitHub migration
-// @history     20140413 initial release
+// @history	20150808 GitHub migration
+// @history	20140413 initial release
 // ==/ChangeLog==
 
 // ==License==
 /*
 @licstart
-Copyright (C) 2014-toyear  aude
+Copyright (C) 2014-toyear	aude
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
