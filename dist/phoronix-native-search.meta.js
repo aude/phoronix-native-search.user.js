@@ -2,7 +2,7 @@
 // @name        Phoronix: native search
 // @namespace   https://github.com/aude
 // @author      aude
-// @description Replace Phoronix' use of Google with it's native search.
+// @description Replace Phoronix' use of Google with it's own native search.
 // @include     /^https?://(www\.)phoronix\.com(/.*)?$/
 // @domain      phoronix.com
 // @match       http://www.phoronix.com/*
